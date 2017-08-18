@@ -8,8 +8,8 @@
 <head>
 </head>
 <body>
-                                                              <!-- Change Src -->
-  <img style="display: block; margin: auto; height: 95%;" src="./src/images/tortugaTopology.png"/>
+                                                              <!-- Change Src Image Name -->
+  <img style="display: block; margin: auto; height: 95%;" src="./images/tortugaTopology.png"/>
 </body>
 </html>
 ```
