@@ -13,6 +13,6 @@
 </body>
 </html>
 ```
-4)  (optional) Test by accessing url at https://codyscoggins.github.io/SimpleDocs/"yourPage".html
-(For example, the topology image page I uploaded following these steps can be accessed at https://codyscoggins.github.io/SimpleDocs/topology.html")
+4)  (optional) Test by accessing url at https://codyscoggins.github.io/SimpleDocs/src/"yourPage".html
+(For example, the topology image page I uploaded following these steps can be accessed at https://codyscoggins.github.io/SimpleDocs/src/topology.html")
 5) Add the newly created URL to the Desktop file named "docs-list.ts" with the appropriate fields (name, creator, link)
