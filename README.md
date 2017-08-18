@@ -15,5 +15,6 @@ How To Add New Graphic Pages
 </body>
 </html>
 ```
-4)  (optional) Test by accessing url at https://codyscoggins.github.io/SimpleDocs/simpleWeb/"yourHtmlPageNameHere".html
-    (For example, the topology image page I uploaded following these steps can be accessed at https://codyscoggins.github.io/SimpleDocs/simpleWeb/topology.html")
+4)  (optional) Test by accessing url at https://codyscoggins.github.io/SimpleDocs/simpleWeb/"yourPage".html
+(For example, the topology image page I uploaded following these steps can be accessed at https://codyscoggins.github.io/SimpleDocs/simpleWeb/topology.html")
+5) Add the newly created URL to the Desktop file named "docs-list.ts" with the appropriate fields (name, creator, link)
