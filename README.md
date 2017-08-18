@@ -1,6 +1,4 @@
-# SimpleDocs
-
-How To Add New Graphic Pages
+# How To Add New Graphic Pages
 1) Upload new graphic (.jpg or .png should work) to /src/images
 2) Create new html page in the /src directory with name relating to image focus (ex. securityDiagram.html)
 3) Copy the following code, replacing the image name in the src url with the image you uploaded
